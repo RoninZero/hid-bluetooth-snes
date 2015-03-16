@@ -1,0 +1,1 @@
+An HID Bluetooth SNES controller that works as a keyboard for iOS compatibility and a gamepad for Android, Mac, Linux, and Windows machines.
